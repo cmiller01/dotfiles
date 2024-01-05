@@ -1,6 +1,6 @@
 # suggester tool version: 0.0.1
 dev:
-  name: ""
+  name: "fizzbuzz"
   repos:
   - https://github.com/cmiller01/dotfiles
 compute:
