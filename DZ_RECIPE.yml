@@ -11,5 +11,5 @@ compute:
     cpus: 4+
     disk: 50
 network:
-  category: vm-public
+  category: container
   network_name: default
